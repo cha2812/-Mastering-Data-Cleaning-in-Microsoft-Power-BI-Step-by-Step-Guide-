@@ -18,10 +18,10 @@ The following steps are used to load clean files into the Power BI Desktop. Note
 
 1. Open your Microsoft Power Desktop.
 
-![](pic1.png)
+![](pica.png)
 
 2. Then click on Get Data, then this dialogue box appears.
 
-![](pic2.png)
+![](picb.png)
 
 3. 
