@@ -33,7 +33,7 @@ The following steps are used to load clean files into the Power BI Desktop. Note
 ![](pic2.png)
 
 5. In The date of birth column, as you can see the values are not correctly written. We have to clean the column first. <br>
-To do that,
+To do that, <br>
 a. We click on the Transform Tab <br>
 b. Then, Click on Replace Values <br>
 c. Replace the delimiter with the delimiter you want to replace it with <br>
@@ -60,7 +60,7 @@ You have to split the date column by delimiter which splits the date column into
 
 ![](pic7.png)
 
-10. Now you can change the data type of Date of Birth column to Date and this time we do not get any error on the rows
+10. Now you can change the data type of the Date of Birth column to Date and this time we do not get any error on the rows
 
 ![](pic8.png)                                            ![](pic9.png)
 
